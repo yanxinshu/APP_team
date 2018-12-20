@@ -14,7 +14,7 @@
 - 饮食管理，有效协助用户实现健身目标
 
 ### 1.产品框架图
-![image](https://github.com/niniupiwofu/APP-team/blob/master/img/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6%E5%9B%BE.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%9B%BE.png?raw=true)
 
 ### 2 .产品使用流程图
 ![image](https://github.com/niniupiwofu/APP-team/blob/master/img/%E5%89%8D%E7%AB%AF%E6%B5%81%E7%A8%8B%E5%9B%BE.png?raw=true)
